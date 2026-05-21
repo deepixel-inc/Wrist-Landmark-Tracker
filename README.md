@@ -14,7 +14,7 @@ The system detects 8 cylindrical wrist landmarks per wrist and provides:
 
 Below is an example of a landmark detection result. The 3D cylinder structure, along with the orientation and pose of the corresponding wrist, is printed on the bounding rect's top left corner.
 
-<img width="680" height="455" alt="image" src="https://github.com/user-attachments/assets/ba563e02-e550-41f1-a319-665cec9b6832" />
+<img width="680" height="455" alt="b6897ab0-28a4-4da9-8adf-6676016a8aa5" src="https://github.com/user-attachments/assets/214a3aa0-5862-4388-9453-76a694f3ac95" />
 
 ---
 
